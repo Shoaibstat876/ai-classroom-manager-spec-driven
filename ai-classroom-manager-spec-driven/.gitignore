@@ -1,0 +1,23 @@
+# Python / venv
+.venv/
+venv/
+env/
+
+# Node / Docusaurus
+node_modules/
+.build/
+dist/
+build/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+logs/
